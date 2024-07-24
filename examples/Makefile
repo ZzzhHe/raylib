@@ -601,6 +601,7 @@ SHADERS = \
     shaders/shaders_postprocessing \
     shaders/shaders_raymarching \
     shaders/shaders_shadowmap \
+	shaders/shaders_cascade_shadowmap \
     shaders/shaders_shapes_textures \
     shaders/shaders_simple_mask \
     shaders/shaders_spotlight \
